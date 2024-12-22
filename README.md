@@ -18,6 +18,12 @@ Prepare your company for CMMC 2.0 compliance by 2025 with our guide on Azure ten
 
 Miguel A. Calles • Feb 5, 2024 • 3 min read
 
+## [Understanding the Implications of the Europcar Data Breach](./posts/edit-2.md)
+
+In recent years, data breaches have become a concerning trend, affecting companies across various industries. One such incident involved Europcar, a prominent car rental company, which was embroiled in controversy following claims of a massive data breach affecting millions of its customers.
+
+Tom Caliendo • Mar 1, 2024 • 3 min read
+
 ## [Use OSINT to Investigate a Phishing Scam](./posts/use-osint-to-investigate-a-phishing-scam.md)
 
 One of the greatest tools for infosec professionals to investigate and prevent phishing scams is actually just a collection of websites that produce information that is free and open to the public, also known as Open Source Intelligence (OSINT).
